@@ -5,13 +5,13 @@ The authors have tested the code on MacOS, using python 3.8.5, jupyter core 4.6.
 There is no requirement for other non-standard hardware.
 
 2. Installation guide<br/>
-Users can use "pip" command to install the above mentioned python packages, for example, \\
-pip install jupyter<br/>
-pip install scipy, etc.<br/>
+Users can use <code>pip</code> command to install the above mentioned python packages, for example,<br/>
+<code>pip install jupyter</code><br/>
+<code>pip install scipy</code>, etc.<br/>
 The installation typically won't last longer than half an hour.
 
 3. Demo<br/>
-All the code in the notebook can be executed immediately. We provided demon run with outputs in separate cells in ipynb files. Demon runs are labeled with hashtags "# demo example".
+All the code in the notebook can be executed immediately. We provided demon run with outputs in separate cells in ipynb files. Demon runs are labeled with hashtags <code># demo example</code>.
 
 4. Simple guide for usage<br/>
 To start the ipynb files, on linux/MacOS, users can work from command line terminal. First, navigate to the directory where the ipynb files are located. Then, on command line type "jupyter notebook" and select the relevant ipynb file.<br/>
