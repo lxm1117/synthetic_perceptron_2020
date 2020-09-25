@@ -11,7 +11,7 @@ Users can use <code>pip</code> command to install the above mentioned python pac
 The installation typically won't last longer than half an hour.
 
 3. Demo<br/>
-All the code in the notebook can be executed immediately. We provided demon run with outputs in separate cells in ipynb files. Demon runs are labeled with hashtags <code># demo example</code>.
+All the code in the notebook can be executed immediately. We provided demon runs with outputs in separate cells in ipynb files. Demon runs are labeled with hashtags <code># demo example</code>.
 
 4. Simple guide for usage<br/>
 To start the ipynb files, on linux/MacOS, users can work from command line terminal. First, navigate to the directory where the ipynb files are located. Then, on command line type "jupyter notebook" and select the relevant ipynb file.<br/>
