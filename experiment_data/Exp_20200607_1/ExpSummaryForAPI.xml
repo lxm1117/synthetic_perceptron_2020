@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Experiment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Plates>
+    <Plate Name="01">
+      <Tubes>
+        <Tube Name="01-Well-D2" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-D3" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-E2" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-E3" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-F2" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-F3" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-G2" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-G3" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-H2" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-H3" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+    <Plate Name="02">
+      <Tubes>
+        <Tube Name="02-Well-G1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-G12" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-H12" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+  </Plates>
+  <Populations>
+    <Population Name="E.Coli" />
+  </Populations>
+  <StatisticsSettings>
+    <TubeHeaderItems>
+      <TubeHeaderItem>EventsCount</TubeHeaderItem>
+      <TubeHeaderItem>RecordTime</TubeHeaderItem>
+      <TubeHeaderItem>Volume</TubeHeaderItem>
+      <TubeHeaderItem>AbortRate</TubeHeaderItem>
+    </TubeHeaderItems>
+    <PopulationStatisticsItems>
+      <PopulationStatisticsItem>Count</PopulationStatisticsItem>
+      <PopulationStatisticsItem>PercentOfParent</PopulationStatisticsItem>
+      <PopulationStatisticsItem>PercentOfAll</PopulationStatisticsItem>
+      <PopulationStatisticsItem>Concentration</PopulationStatisticsItem>
+    </PopulationStatisticsItems>
+    <SignalStatisticsSettings>
+      <SignalStatisticsSetting Id="0">
+        <SignalStatisticsSettingInfos>
+          <SignalStatisticsSettingInfo SignalName="mCherry-A" StatisticsType="Median" />
+        </SignalStatisticsSettingInfos>
+      </SignalStatisticsSetting>
+    </SignalStatisticsSettings>
+  </StatisticsSettings>
+</Experiment>

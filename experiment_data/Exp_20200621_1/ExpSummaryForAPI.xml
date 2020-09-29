@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<Experiment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Plates>
+    <Plate Name="01">
+      <Tubes>
+        <Tube Name="01-Well-B7" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-B8" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-B9" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-B10" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-B11" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-B12" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C7" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C8" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C9" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C10" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C11" SignalStatisticsSettingId="0" />
+        <Tube Name="01-Well-C12" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+    <Plate Name="02">
+      <Tubes>
+        <Tube Name="02-Well-A1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-A12" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-B12" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-D12" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E1" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E2" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E3" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E4" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E5" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E6" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E7" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E8" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E9" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E10" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E11" SignalStatisticsSettingId="0" />
+        <Tube Name="02-Well-E12" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+    <Plate Name="03">
+      <Tubes>
+        <Tube Name="03-Well-C1" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C2" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C3" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C4" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C5" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C6" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C7" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C8" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C9" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C10" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C11" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-C12" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D1" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D2" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D3" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D4" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D5" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D6" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D7" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D8" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D9" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D10" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D11" SignalStatisticsSettingId="0" />
+        <Tube Name="03-Well-D12" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+    <Plate Name="04">
+      <Tubes>
+        <Tube Name="04-Well-A1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F1" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F2" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F3" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F7" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F8" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F9" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F10" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F11" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F12" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-A6" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-B6" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-C6" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-D6" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-E6" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F4" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F5" SignalStatisticsSettingId="0" />
+        <Tube Name="04-Well-F6" SignalStatisticsSettingId="0" />
+      </Tubes>
+    </Plate>
+  </Plates>
+  <Populations>
+    <Population Name="E.Coli" />
+  </Populations>
+  <StatisticsSettings>
+    <TubeHeaderItems>
+      <TubeHeaderItem>EventsCount</TubeHeaderItem>
+      <TubeHeaderItem>RecordTime</TubeHeaderItem>
+      <TubeHeaderItem>Volume</TubeHeaderItem>
+      <TubeHeaderItem>AbortRate</TubeHeaderItem>
+    </TubeHeaderItems>
+    <PopulationStatisticsItems>
+      <PopulationStatisticsItem>Count</PopulationStatisticsItem>
+      <PopulationStatisticsItem>PercentOfParent</PopulationStatisticsItem>
+      <PopulationStatisticsItem>PercentOfAll</PopulationStatisticsItem>
+      <PopulationStatisticsItem>Concentration</PopulationStatisticsItem>
+    </PopulationStatisticsItems>
+    <SignalStatisticsSettings>
+      <SignalStatisticsSetting Id="0">
+        <SignalStatisticsSettingInfos>
+          <SignalStatisticsSettingInfo SignalName="mCherry-A" StatisticsType="Mean" />
+          <SignalStatisticsSettingInfo SignalName="mCherry-A" StatisticsType="Median" />
+        </SignalStatisticsSettingInfos>
+      </SignalStatisticsSetting>
+    </SignalStatisticsSettings>
+  </StatisticsSettings>
+</Experiment>
