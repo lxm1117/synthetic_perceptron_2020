@@ -18,3 +18,5 @@ To start the ipynb files, on linux/MacOS, users can work from command line termi
 On Windows, users can also launch from the terminal.
 
 5. Experimental data for 4-bit patterns and 3x3 patterns, together with the code for data processing, are located in the folder experiment_data.
+
+6. We just included the annotated plasmids sequences in the directory plasmids_sequences_annotations.
