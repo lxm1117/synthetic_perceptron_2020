@@ -17,8 +17,8 @@ All the code in the notebook can be executed immediately. We provided demon runs
 To start the ipynb files, on linux/MacOS, users can work from command line terminal. First, navigate to the directory where the ipynb files are located. Then, on command line type "jupyter notebook" and select the relevant ipynb file.<br/>
 On Windows, users can also launch from the terminal.
 
-5. Experimental data for 4-bit patterns and 3x3 patterns, together with the code for data processing, are located in the folder <mark>experiment_data</mark>.
+5. Experimental data for 4-bit patterns and 3x3 patterns, together with the code for data processing, are located in the folder <code>experiment_data</code>.
 
-6. We included the annotated plasmids sequences in the directory <mark>plasmids_sequences_annotations</mark>.
+6. We included the annotated plasmids sequences in the directory <code>plasmids_sequences_annotations</code>.
 
-7. We added a pdf file to show the fluorescence histograms in the <mark>experiment_data</mark> folder.
+7. We added a pdf file to show the fluorescence histograms in the <code>experiment_data</code> folder.
